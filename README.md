@@ -17,7 +17,7 @@ Flags:
 
 EX:
 
-   python ARPScan.py -n '192.168.1.1/24' -d
+   -python ARPScan.py -n '192.168.1.1/24' -d
 
-   python ARPScan.py -n '10.0.0.1/24'
+   -python ARPScan.py -n '10.0.0.1/24'
 
