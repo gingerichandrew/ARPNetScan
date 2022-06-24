@@ -7,13 +7,13 @@ Using Scapy(2.4.5) -> https://scapy.net/
 
 Flags:
 
-** REQUIRED **
+  ** REQUIRED **
 
--n: <'local network address'> -> '192.168.1.1' ... '10.0.0.1'
+    -n: <'local network address'> -> '192.168.1.1' ... '10.0.0.1'
 
-** OPTIONAL **
+  ** OPTIONAL **
 
--d -> If present will display device hostnames(if available). Not optimized for a large network
+    -d -> If present will display device hostnames(if available). Not optimized for a large network
 
 EX:
 
